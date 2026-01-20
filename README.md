@@ -651,7 +651,7 @@ who has done extensive reserach in human expertise.
 
 ### Concepts
 
-#### Seven deadly myths of autonomous systems:
+#### Seven deadly myths of autonomous systems
 
 1. "Autonomy" is unidimensional.
 2. The conceptualization of "levels of autonomy" is a useful scientific grounding for the development of autonomous system roadmaps.
@@ -746,6 +746,7 @@ complex socio-technical systems.
 * [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
 * [Understanding Accidents - From Root Causes to Performance Variability](https://www.researchgate.net/publication/3973687_Understanding_accidents-from_root_causes_to_performance_variability) ([BH](https://safety177496371.wordpress.com/2025/03/12/understanding-accidents-from-root-causes-to-performance-variability/))
 * [Human error: trick or treat](https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470713181.ch9)
+* [THe 5th paradox of safety](https://incrementalsafety.com/onewebmedia/fifth%20paradox%20oct%2031.pdf) ([BH](https://safetyinsights.org/2026/01/09/the-fifth-paradox-of-safety-new-article-from-erik-hollnagel/))
 
 
 [Resilience Engineering: Concepts and Precepts]: https://www.amazon.com/gp/product/B009KNDF64/ref=x_gr_w_glide_bb?ie=UTF8&tag=x_gr_w_glide_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B009KNDF64&SubscriptionId=1MGPYB6YW3HWK55XCGG2
